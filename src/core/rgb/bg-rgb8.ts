@@ -1,6 +1,6 @@
-import { clampAndTruncate } from '@/utils/clamp-truncate.js';
-import { code } from '@/utils/code.js';
-import { run } from '@/utils/run.js';
+import { clampAndTruncate } from '#/utils/clamp-truncate.js';
+import { code } from '#/utils/code.js';
+import { run } from '#/utils/run.js';
 
 /**
  * Set background color using paletted 8bit colors.

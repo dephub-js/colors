@@ -1,5 +1,5 @@
-import { code } from '@/utils/code.js';
-import { run } from '@/utils/run.js';
+import { code } from '#/utils/code.js';
+import { run } from '#/utils/run.js';
 
 /**
  * Set background color to bright yellow.
