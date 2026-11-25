@@ -1,4 +1,4 @@
-import { brightBlack } from './bright/black.js';
+import { brightBlack } from './bright/black.ts';
 
 /**
  * Set text color to gray.

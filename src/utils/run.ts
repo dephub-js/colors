@@ -1,4 +1,4 @@
-import type { Code } from './code.js';
+import type { Code } from './code.ts';
 
 /**
  * Applies color and background based on color code and its associated text

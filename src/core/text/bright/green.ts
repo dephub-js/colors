@@ -1,5 +1,5 @@
-import { code } from '#/utils/code.js';
-import { run } from '#/utils/run.js';
+import { code } from '#/utils/code.ts';
+import { run } from '#/utils/run.ts';
 
 /**
  * Set text color to bright green.
